@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GraemeFormScotland
-- 👀 I’m interested in improving my own life and the lives of other where possible
+- 👀 I’m interested in improving my own life and the lives of others where possible
 - 🌱 I’m currently learning Forms development
 - 💞️ I’m looking to collaborate on Forms development
 - 📫 How to reach me - Graeme.Longair@aapct.scot.nhs.uk
